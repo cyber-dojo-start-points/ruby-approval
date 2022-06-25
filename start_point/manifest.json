@@ -1,5 +1,5 @@
 {
-  "image_name": "cyberdojofoundation/ruby_approval:7ea38ab",
+  "image_name": "cyberdojofoundation/ruby_approval:e979c02",
   "display_name": "Ruby, Approval",
   "visible_filenames": [
     "hiker_spec.rb",
