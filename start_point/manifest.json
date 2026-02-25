@@ -1,5 +1,5 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/ruby_approval:6412933",
+  "image_name": "ghcr.io/cyber-dojo-languages/ruby_approval:6084b46",
   "display_name": "Ruby 4.0.1, Approval 0.1.7",
   "visible_filenames": [
     "hiker_spec.rb",
@@ -9,6 +9,7 @@
     "cyber-dojo.sh",
     "coverage.rb"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".rb",
     ".approved.txt",
