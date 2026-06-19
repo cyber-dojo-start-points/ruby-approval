@@ -1,6 +1,14 @@
 {
   "image_name": "ghcr.io/cyber-dojo-languages/ruby_approval:6084b46",
   "display_name": "Ruby 4.0.1, Approval 0.1.7",
+  "language": [
+    "Ruby",
+    "4.0.1"
+  ],
+  "test_framework": [
+    "Approval",
+    "0.1.7"
+  ],
   "visible_filenames": [
     "hiker_spec.rb",
     "hiker.rb",
