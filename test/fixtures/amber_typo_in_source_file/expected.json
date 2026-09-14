@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 25,
+  "matches": [ "^  undefined method 'putts' for main$" ],
+  "match_counts": {
+    "^An error occurred while loading \\./hiker_spec\\.rb\\.$": 1,
+    "^0 examples, 0 failures, 1 error occurred outside of examples$": 1
+  }
+}

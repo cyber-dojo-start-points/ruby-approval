@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 15,
+  "match_counts": {
+    "^1 example, 0 failures$": 1,
+    "checksum": 0,
+    "SyntaxError": 0
+  }
+}

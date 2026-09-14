@@ -1,0 +1,7 @@
+{
+  "matches": [ "Approval Error: Approval file \"\\./hiker_hhgttg_answer\\.approved\\.txt\" not found\\.$" ],
+  "match_counts": {
+    "^  1\\) hiker hhgttg answer$": 1,
+    "^1 example, 1 failure$": 1
+  }
+}

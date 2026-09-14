@@ -1,0 +1,7 @@
+{
+  "match_counts": {
+    "^  [0-9]+\\) hiker hhgttg .+$": 3,
+    "Approval Error: Received file .* does not match approved ": 3,
+    "^3 examples, 3 failures$": 1
+  }
+}

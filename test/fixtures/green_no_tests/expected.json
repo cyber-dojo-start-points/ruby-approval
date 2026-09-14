@@ -1,0 +1,7 @@
+{
+  "max_output_lines": 15,
+  "matches": [ "^No examples found\\.$" ],
+  "match_counts": {
+    "^0 examples, 0 failures$": 1
+  }
+}

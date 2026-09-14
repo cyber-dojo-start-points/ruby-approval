@@ -1,0 +1,7 @@
+{
+  "matches": [ "^An error occurred in an .after\\(:context\\). hook\\.$" ],
+  "match_counts": {
+    "^  1\\) hiker hhgttg answer$": 1,
+    "^1 example, 1 failure, 1 error occurred outside of examples$": 1
+  }
+}

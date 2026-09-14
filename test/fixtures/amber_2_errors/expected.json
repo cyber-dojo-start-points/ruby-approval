@@ -1,0 +1,7 @@
+{
+  "match_counts": {
+    "^An error occurred while loading \\./[a-z_]+\\.rb\\.$": 2,
+    "^  cannot load such file -- .*(checksum|tally)$": 2,
+    "^0 examples, 0 failures, 2 errors occurred outside of examples$": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "matches": [ "answer_size_spec\\.rb:[0-9]+: syntax errors? found" ],
+  "match_counts": {
+    "^1 example, 0 failures, 1 error occurred outside of examples$": 1
+  }
+}

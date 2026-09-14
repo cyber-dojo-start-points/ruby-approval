@@ -1,0 +1,7 @@
+{
+  "matches": [ "Approval Error: Received file \"\\./hiker_hhgttg_answer\\.received\\.txt\" does not match approved \"\\./hiker_hhgttg_answer\\.approved\\.txt\"\\.$" ],
+  "match_counts": {
+    "^  1\\) hiker hhgttg answer$": 1,
+    "^1 example, 1 failure$": 1
+  }
+}
