@@ -1,9 +1,9 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/ruby_approval:6084b46",
-  "display_name": "Ruby 4.0.1, Approval 0.1.7",
+  "image_name": "ghcr.io/cyber-dojo-languages/ruby_approval:ec57ec6@sha256:804ba14d4e14f59fc683df843d1026ec2700cbfce1cbcc9c62c881272d19a69e",
+  "display_name": "Ruby 4.0.7, Approval 0.1.7",
   "language": [
     "Ruby",
-    "4.0.1"
+    "4.0.7"
   ],
   "test_framework": [
     "Approval",
